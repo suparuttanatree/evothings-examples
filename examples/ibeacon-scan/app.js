@@ -7,7 +7,7 @@ var app = (function()
 	var regions =
 	[
 		// Estimote Beacon factory UUID.
-		{uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D'},
+		{uuid:'9707924f-d698-4c72-ad69-a30bca2decc0'},
 		// Sample UUIDs for beacons in our lab.
 		{uuid:'F7826DA6-4FA2-4E98-8024-BC5B71E0893E'},
 		{uuid:'8DEEFBB9-F738-4297-8040-96668BB44281'},
